@@ -1,0 +1,7 @@
+Type of assignment : Lab
+Description : See the given odt file
+Published on : 2018-04-01 10:30:00+00:00
+Deadline : 2018-04-16 18:29:00+00:00
+Freezing Deadline : 2018-04-16 18:45:00+00:00
+Programming language : C++
+Files to be submitted : SimpleFTPServerPhase1.cpp SimpleFTPClientPhase1.cpp SimpleFTPServerPhase2.cpp SimpleFTPClientPhase2.cpp SimpleFTPServerPhase3.cpp SimpleFTPClientPhase3.cpp SimpleFTPServerPhase4.cpp SimpleFTPClientPhase4.cpp
